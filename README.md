@@ -6,8 +6,9 @@ Personal website · [ADharaUTEXAS123007.github.io](https://adharautexas123007.gi
 
 ### About Me
 
-I'm an AI engineer/research scientist with interests in science and technology. I'm based at The University of Texas at Austin. Feel free to explore my projects and get in touch if you'd like to connect or collaborate.
+I am an AI engineer and research scientist with a strong interest in science-driven technology. My work focuses on applying machine learning to large-scale scientific inverse problems, spanning geophysics, inverse theory, uncertainty quantification, and high-performance computing. I have developed and trained large-scale diffusion models designed to serve as priors for inverse problem workflows.
 
+More recently, I have been building agentic AI workflows for industrial automation, global trade management, and energy exploration, along with designing end-to-end training pipelines for large language models tailored to these applications.
 ### Projects
 
 - *Project name* — Short description. [Link](url)  
